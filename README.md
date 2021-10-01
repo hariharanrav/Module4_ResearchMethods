@@ -15,4 +15,4 @@ This project was part of module 4 of research methods course at CDS, IISc. The a
 -  By scatter plotting total production of season 2016-2017 against 2017-2018, the above hypothesis can be verified.
 -  Expected positive correlation with slope tilting towards y-axis demonstrating increase in produce over years. 
 ### Scatter plot
-!(https://github.com/hariharanrav/Module4_ResearchMethods/blob/master/ScatterPlot.png)
+![Check](https://github.com/hariharanrav/Module4_ResearchMethods/blob/master/ScatterPlot.png)
