@@ -15,5 +15,7 @@ This project was part of module 4 of research methods course at CDS, IISc. The a
 -  By scatter plotting total production of season 2016-2017 against 2017-2018, the above hypothesis can be verified.
 -  Expected positive correlation with slope tilting towards y-axis demonstrating increase in produce over years. 
 ### Scatter plot
-
+- Inference 1 : Trend over years is largely increasing, as seen below
+- Few states have increase production more compared to other states, which means they will deviate from the trend more. E.g. TamilNadu
+- Few states have decreased capacity and they fall below the trend
 <img src="https://github.com/hariharanrav/Module4_ResearchMethods/blob/master/ScatterPlot.png" width="600" height="600">
