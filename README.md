@@ -16,4 +16,4 @@ This project was part of module 4 of research methods course at CDS, IISc. The a
 -  Expected positive correlation with slope tilting towards y-axis demonstrating increase in produce over years. 
 ### Scatter plot
 
-<img src="https://github.com/hariharanrav/Module4_ResearchMethods/blob/master/ScatterPlot.png" width="1000" height="1000">
+<img src="https://github.com/hariharanrav/Module4_ResearchMethods/blob/master/ScatterPlot.png" width="400" height="400">
