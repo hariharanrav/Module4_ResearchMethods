@@ -25,6 +25,7 @@ This project was part of module 4 of research methods course at CDS, IISc. The a
 - By box plotting production values across two seasons, one understand how distribution is evolving
 - As the plot below shows, the min, mean and maximum have shifted from 2016-2017 to 2017-2018. Hence there is a clear uptrend in production
  <img src="https://github.com/hariharanrav/Module4_ResearchMethods/blob/master/BoxPlot.png" width="500" height="500">
+ 
 ### Hypothesis 3: How is the production changing over seasons for each state?
 ### Grouped bar plot
 - By plotting production amounts for two seasons grouped by state/UT names, relative change in production for each state can be ascertained. 
