@@ -30,3 +30,4 @@ This project was part of module 4 of research methods course at CDS, IISc. The a
 ### Grouped bar plot
 - By plotting production amounts for two seasons grouped by state/UT names, relative change in production for each state can be ascertained. 
 <img src="https://github.com/hariharanrav/Module4_ResearchMethods/blob/master/BarPlot.png" width="600" height="600">
+- As seen below, few states like Tamil Nadu have increased the food grain production ove the two seasons while few other states have seen a decrease in produciton.
